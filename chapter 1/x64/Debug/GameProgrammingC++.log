@@ -1,0 +1,18 @@
+﻿  Game.cpp
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.h(7,7): warning C4099: 'SDL_Window': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game.cpp'을(를) 컴파일하는 중)
+      D:\libs\SDL2-2.30.9\include\SDL_video.h(95,16):
+      'SDL_Window' 선언을 참조하십시오.
+  
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.h(8,7): warning C4099: 'SDL_Renderer': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game.cpp'을(를) 컴파일하는 중)
+      D:\libs\SDL2-2.30.9\include\SDL_render.h(141,8):
+      'SDL_Renderer' 선언을 참조하십시오.
+  
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.cpp(159,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.cpp(170,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.cpp(213,15): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.cpp(213,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.cpp(220,15): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\repos\GameProgrammingC++\GameProgrammingC++\Game.cpp(220,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameProgrammingC++.vcxproj -> D:\repos\GameProgrammingC++\x64\Debug\GameProgrammingC++.exe
